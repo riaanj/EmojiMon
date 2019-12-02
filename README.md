@@ -17,28 +17,28 @@ This app will have two different sections, the parents monitoring section and th
 The development timeline of the app can be broken down into the following sections:
 
 **Design (December 2019 - 1 January 2020)**
-Design the screen layout and document the apps functionality.
-Do a detailed design on all functionalities and the database that will support it.
+* Design the screen layout and document the apps functionality.
+* Do a detailed design on all functionalities and the database that will support it.
 
 **Develop (2 January 2020 - 15 March 2020)**
-Gather data to build the model for the facial mood recognition. This is where I will make use of Tensorflow to build a deep learning model. Accuracy for facial mood recognition models have achieved over 97%. I will be looking to build a similar model accuracy at least.
-Develop the initial client app to take photos and show on screen the result for verification of the mode.
-Develop the monitoring app from where the parents can monitor the clients. Here I will make use of FIrebase to store and forward events from the client to the parent and allow configuration changes from the parent to be pushed to the client.
-Modify the initial client app to run silently in the background and send updates on the moods experienced Firebase where it will send it to the parent.
+* Gather data to build the model for the facial mood recognition. This is where I will make use of Tensorflow to build a deep learning model. Accuracy for facial mood recognition models have achieved over 97%. I will be looking to build a similar model accuracy at least.
+* Develop the initial client app to take photos and show on screen the result for verification of the mode.
+* Develop the monitoring app from where the parents can monitor the clients. Here I will make use of FIrebase to store and forward events from the client to the parent and allow configuration changes from the parent to be pushed to the client.
+* Modify the initial client app to run silently in the background and send updates on the moods experienced Firebase where it will send it to the parent.
 
 **Testing (16 March 2020 - 30 April 2020)**
-Get friends and family to test the app and give feedback.
-Correct or improve on any valid recommendations or problems.
-Try to improve on the model during the testing phase.
+* Get friends and family to test the app and give feedback.
+* Correct or improve on any valid recommendations or problems.
+* Try to improve on the model during the testing phase.
 
 **Delivery (1 May 2020)**
-Deliver a life changing app to Google!
+* Deliver a life changing app to Google!
 
 ### How I could use Google’s help
-Mentorship in building a stable app with industry best practice. Especially where it comes to securing the data.
-Advice on how this app could become part of the Google Family link app. I do believe it could be a great added feature for this.
-Advice on how the best practices for getting your app into Google Play and get it seen.
-Overall mentorship in developing professional apps with a great user experience.
+* Mentorship in building a stable app with industry best practice. Especially where it comes to securing the data.
+* Advice on how this app could become part of the Google Family link app. I do believe it could be a great added feature for this.
+* Advice on how the best practices for getting your app into Google Play and get it seen.
+* Overall mentorship in developing professional apps with a great user experience.
 
 
 
